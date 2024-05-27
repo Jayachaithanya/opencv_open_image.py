@@ -1,3 +1,6 @@
+#  used to get real time weather data.
+#  requires internet.
+
 import requests
 
 api_key = "f0f7eeabf8c37b30277f88027e4c35ae"

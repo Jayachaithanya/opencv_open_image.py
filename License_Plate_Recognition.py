@@ -1,5 +1,6 @@
 # works in IDLE 3.9 only...
-
+#  try using in idle
+#  it converts the image into biterial filter then grayscale , resizing and canny edges and gives the final image of the number plate
 import time
 import cv2
 import imutils

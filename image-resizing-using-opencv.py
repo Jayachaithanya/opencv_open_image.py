@@ -20,3 +20,6 @@ for i in range(count):
     plt.imshow(images[i])
 
 plt.show()
+
+#  try using in idle
+#  used to convert the image into 4 different types.

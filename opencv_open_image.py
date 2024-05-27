@@ -1,3 +1,5 @@
+#  used to open the file manager using openCV.
+
 import cv2
 
 # path 

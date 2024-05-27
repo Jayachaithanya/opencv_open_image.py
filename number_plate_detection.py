@@ -1,3 +1,6 @@
+#  try using in idle
+#  same as license plate detection.///
+
 # https://medium.com/programming-fever/license-plate-recognition-using-opencv-python-7611f85cdd6c
 import cv2
 import imutils

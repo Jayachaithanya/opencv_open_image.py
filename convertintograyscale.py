@@ -14,3 +14,7 @@ b = cv2.write('4.jpg', image)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+#  converts the image into black/white image.
+#  try using in idle
+

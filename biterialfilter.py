@@ -1,3 +1,6 @@
+#  try using in idle
+#  uses the image into biterial filter
+
 import cv2
 import pytesseract
 

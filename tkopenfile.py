@@ -1,3 +1,5 @@
+#  used to open images in the file manager using tkinter.
+
 import tkinter as tk
 from tkinter import filedialog
 import cv2

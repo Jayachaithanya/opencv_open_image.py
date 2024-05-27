@@ -1,3 +1,6 @@
+#  try using in idle
+# used to resize the image
+
 import cv2
 import imutils
 import pytesseract
