@@ -18,6 +18,7 @@ wind = data['wind']['speed']
 description = data['weather'][0]['description']
 temp = data['main']['temp']
 c = temp - 273.15
+#  convert into kelvin into celcius
 print('Temperature:', c, '°C')
 print('Wind:', wind)
 print('Pressure: ', pressure)

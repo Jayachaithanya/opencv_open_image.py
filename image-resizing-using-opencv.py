@@ -1,5 +1,5 @@
 import cv2
-# import numpy as np
+import numpy as np
 import matplotlib.pyplot as plt
 
 image = cv2.imread("33170.jpg", 1)
