@@ -1,10 +1,8 @@
 #  used to open the file manager using openCV.
 
 import cv2
-
 # path 
 path = r'4.jpg'
-
 
 # Using cv2.imread() method 
 # Using 0 to read image in grayscale mode 

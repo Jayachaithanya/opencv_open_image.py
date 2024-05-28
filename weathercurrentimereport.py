@@ -11,6 +11,7 @@ complete_url = base_url + "appid=" + api_key + "&q=" + city_name
 response = requests.get(complete_url)
 data = response.json()
 
+#  getting data from main
 humidity = data['main']['humidity']
 pressure = data['main']['pressure']
 wind = data['wind']['speed']
